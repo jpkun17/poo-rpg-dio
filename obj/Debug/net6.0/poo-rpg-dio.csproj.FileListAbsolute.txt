@@ -1,0 +1,15 @@
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\bin\Debug\net6.0\poo-rpg-dio.exe
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\bin\Debug\net6.0\poo-rpg-dio.deps.json
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\bin\Debug\net6.0\poo-rpg-dio.runtimeconfig.json
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\bin\Debug\net6.0\poo-rpg-dio.dll
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\bin\Debug\net6.0\poo-rpg-dio.pdb
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\poo-rpg-dio.csproj.AssemblyReference.cache
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\poo-rpg-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\poo-rpg-dio.AssemblyInfoInputs.cache
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\poo-rpg-dio.AssemblyInfo.cs
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\poo-rpg-dio.csproj.CoreCompileInputs.cache
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\poo-rpg-dio.dll
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\refint\poo-rpg-dio.dll
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\poo-rpg-dio.pdb
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\poo-rpg-dio.genruntimeconfig.cache
+C:\Users\jpkun\Desktop\Curso GFT\poo-rpg-dio\obj\Debug\net6.0\ref\poo-rpg-dio.dll
